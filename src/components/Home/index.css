@@ -1,0 +1,36 @@
+.course-heading {
+  font-family: 'Roboto';
+  color:  #1e293b;
+  margin-left: 30px;
+}
+.course-ul-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-img {
+  width: 300px;
+}
+.failure-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.failure-para {
+  color: #475569;
+  font-family: 'Roboto';
+}
+.retry-button {
+}
